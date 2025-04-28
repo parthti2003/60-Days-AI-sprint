@@ -1,25 +1,52 @@
-60 Days AI Sprint
-Welcome to my 60-day AI learning journey! This repository showcases my path to mastering essential AI skills and landing my first AI engineering job. Over the next two months, I will work through a structured learning plan covering Python, machine learning, deep learning, natural language processing, and other critical topics in AI. Along the way, I will create projects, solve coding challenges, and improve my skills to become a job-ready AI engineer.
+# 60 Days AI Sprint
 
-What’s Inside
-Python Basics: Learning the fundamentals, including syntax, data types, and control flow.
+Welcome to my **60 Days AI Sprint**! This repository documents my dedicated journey to mastering Artificial Intelligence (AI) and landing my first AI engineering role. Over the course of 60 days, I will build a strong foundation in AI, work on real-world projects, solve coding challenges, and improve my overall problem-solving skills.
 
-Data Structures & Algorithms: Solving problems and improving problem-solving skills.
+## Objective
 
-Machine Learning & Deep Learning: Hands-on projects and coding exercises.
+The goal of this sprint is to:
 
-AI Projects: Building practical AI solutions to showcase my skills.
+- **Master Python** as a primary language for AI.
+- Learn **core AI concepts** such as machine learning, deep learning, and natural language processing.
+- **Build impactful AI projects** that will serve as a portfolio to demonstrate my capabilities.
+- Practice solving coding challenges regularly to prepare for technical interviews.
+- Stay consistent with daily learning and continuous improvement to land my first AI engineering job.
 
-LeetCode Challenges: Consistent practice to improve coding abilities and prepare for technical interviews.
+## What I’m Focusing On
 
-Milestones
-Days 1-30: Focus on mastering the core AI and programming concepts (Python, Data Structures, Algorithms, and introductory Machine Learning).
+### 1. **Core Programming Concepts**  
+- Python fundamentals (data types, control flow, functions)
+- Data structures & algorithms to improve problem-solving abilities
 
-Days 31-60: Dive deeper into machine learning, deep learning, NLP, and AI deployment. Build advanced projects and prepare for job applications.
+### 2. **Machine Learning & Deep Learning**  
+- Building models and algorithms to solve real-world problems
+- Understanding the latest trends in AI and deep learning techniques
 
-Goal
-The goal is to be proficient in AI and ready for job interviews in 60 days, showcasing a strong portfolio on GitHub. I’m committed to consistent learning, hands-on projects, and solving real-world problems through AI technologies.
+### 3. **Natural Language Processing (NLP)**  
+- Exploring NLP techniques to work with textual data
+- Hands-on projects using popular libraries like SpaCy and Hugging Face
 
-Follow My Journey
-You can follow my progress through my LinkedIn posts and updates, as well as this repository. I will regularly commit my code, share projects, and document my learning process.
+### 4. **AI Project Development**  
+- Developing projects that demonstrate my AI expertise
+- Projects to be added to this repository to showcase my learning and growth
 
+### 5. **LeetCode and Coding Challenges**  
+- Solving problems to enhance coding skills and prepare for technical interviews
+
+## Milestones
+
+- **Days 1-30:** Focus on mastering Python and core AI concepts, including data structures, algorithms, and machine learning fundamentals.
+- **Days 31-60:** Dive deep into advanced machine learning, deep learning, NLP, and project development. Start building portfolio-worthy projects.
+
+## Key Goals
+
+By the end of this 60-day sprint, I aim to:
+
+1. Have a **comprehensive understanding** of Python, AI, and machine learning techniques.
+2. Complete multiple **AI-driven projects** to showcase my skills.
+3. Have a **polished GitHub portfolio** to demonstrate my capabilities.
+4. Be fully prepared for AI engineering job interviews with a solid understanding of the technologies and problem-solving techniques needed.
+
+## Progress Updates
+
+I will regularly commit code, share project updates, and document my learning experiences through this repository. Follow my journey, and feel free to explore the projects and coding challenges I work on. Updates will also be shared on my LinkedIn for broader visibility.
