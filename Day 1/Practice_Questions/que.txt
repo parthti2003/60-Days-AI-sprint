@@ -1,0 +1,72 @@
+Step 1: Topic-wise Practice Questions
+🔹 Variables, Data Types, Input/Output
+Create a program that takes user name and age and prints "Hello <name>, you are <age> years old."
+
+Store price of 3 items in variables, calculate and print the total bill.
+
+Input two numbers from user and swap them without using a third variable.
+
+Write a program that converts temperature from Celsius to Fahrenheit.
+
+🔹 Control Flow (if/else, loops)
+Input a number and check if it's positive, negative, or zero.
+
+Print the first 10 even numbers using a for loop.
+
+Sum of numbers from 1 to N using while loop.
+
+Find whether a given year is a leap year or not (use if-else).
+
+🔹 Functions + Error Handling
+Write a function to return the maximum of two numbers.
+
+Write a function to calculate factorial of a number.
+
+Write a function that checks if a string is palindrome.
+
+Write a function that takes two numbers and returns their GCD.
+
+Try intentionally raising and handling a ZeroDivisionError.
+
+🔹 Data Structures (Lists, Tuples, Sets, Dictionaries)
+Write a Python program to find the second largest number in a list.
+
+Count the number of vowels in a given string.
+
+Remove duplicates from a list using a set.
+
+Create a dictionary to store names as keys and marks as values, then print students scoring more than 80 marks.
+
+Write list comprehension to create a list of squares from 1 to 10.
+
+🛠 Step 2: Mini Combined Projects
+(Only based on the topics you mentioned)
+
+Simple Calculator App
+(Use input/output, functions, if/else)
+➔ Take two numbers and an operation (+, -, *, /) as input and show the result.
+
+Student Grading System
+(Use loops, functions, dictionary)
+➔ Input marks of students and assign grade A/B/C based on their marks, and print report.
+
+Word Frequency Counter
+(Use string, dictionary, loops)
+➔ Input a paragraph from user, count the number of occurrences of each word.
+
+Basic Contact Book
+(Lists, Dictionaries)
+➔ Store multiple names and phone numbers. Allow user to add/search/delete contacts.
+
+🏹 Step 3: After Practice and Projects → Solve These 8 LeetCode Problems
+(2+2+2+2 from your roadmap)
+
+# | Topic | Suggested LeetCode Problems
+1 | Array/String | Two Sum
+2 | Array/String | Valid Palindrome
+3 | Array | Best Time to Buy and Sell Stock
+4 | String | Implement strStr()
+5 | Function | Sum of Two Integers
+6 | Function + Error Handling | Palindrome Number
+7 | Data Structure - List | Merge Two Sorted Lists
+8 | Data Structure - Dictionary | Valid Anagram
