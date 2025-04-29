@@ -1,9 +1,4 @@
-# Write a function that checks if a string is palindrome.
-
-def isPalindrome(s):
-
-    s = s.replace(" ","").lower()
-    return s == s[::-1] #this reverses the string
-
-s = input()
-print(isPalindrome(s))
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        cleaned = ''.join(char.lower() for char in s if char.isalnum())
+        return cleaned == cleaned[::-1]
