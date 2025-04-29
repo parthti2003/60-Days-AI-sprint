@@ -1,4 +1,3 @@
-# Create a dictionary to store names as keys and marks as values, then print students scoring more than 80 marks.
 def print_top_students(students, threshold):
     print("🎯 Students scoring above", threshold)
     for name, marks in students.items():
