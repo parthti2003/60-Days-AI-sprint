@@ -1,0 +1,36 @@
+1. Object-Oriented Programming (OOP) Basics:
+Create a class representing a Car. Include attributes like make, model, year, and color. Implement methods to:
+
+Display the car details.
+
+Change the car color.
+
+Start the car (display a message like "Car is starting...").
+
+Create a Student class with attributes like name, roll_number, and marks. Add methods to:
+
+Calculate the average marks of a student.
+
+Display student details.
+
+Inheritance Practice:
+
+Base Class Animal: Create a class representing an animal with basic attributes like name and age. Create a method speak() that returns a general animal sound.
+
+Derived Class Dog: Inherit from Animal and override speak() to return a dog-specific sound ("Woof!").
+
+Polymorphism: Implement method overloading and overriding by creating multiple classes for shapes (like Circle and Rectangle) and calculating area using different methods.
+
+2. File I/O:
+Reading/Writing to a Text File: Write a Python program that reads content from a text file, modifies it, and writes the modified content to a new text file.
+
+CSV File Handling: Write a Python program to:
+
+Read data from a CSV file and store it in a list of dictionaries.
+
+Write a list of dictionaries into a CSV file.
+
+Log File: Create a program that logs error messages to a file. Implement a function to log errors with timestamps, and another to read the log file and display error messages.
+
+3. Combining OOP and File I/O:
+Create a class Book with attributes like title, author, and isbn. Implement a method to save a list of books to a CSV file. Then, create another method to load these books from the CSV file and display them.
